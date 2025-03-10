@@ -26,13 +26,13 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 
-## 💻Tech Stack & Tools:
+## 💻 Tech Stack & Tools:
 <div align="center">
   <a href="#">
-     <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,cpp,java,python,androidstudio,vscode,photoshop,xd,figma,git&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=github,postman,googlecloud,mysql,sqlite,html,css,opencv,unity,discord&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=cs,dotnet,asp,azure,blazor,mssql,postgres,git,github,vscode,postman&theme=dark" />
   </a>
 </div>
+
   
 ## 💌 Connect with me:
 <p align="center">
