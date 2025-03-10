@@ -27,7 +27,12 @@
 </div>
 
 ## 💻 Tech Stack & Tools:
-<div align="center"> <a href="#"> <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,sql,postgresql,azure,github,git,postman,vscode&theme=dark" /> </a> </div>
+<div align="center"> 
+  <a href="#"> 
+    <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,sql,git,postman,vscode&theme=dark" /> 
+  </a> 
+</div>
+
 🛠️ Skills:
 Programming Languages: C#, C++
 Concepts: OOP, Data Structures, Algorithms, Problem Solving, SOLID Principles
