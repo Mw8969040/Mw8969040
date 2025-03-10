@@ -1,4 +1,4 @@
-<h2> Hi, I'm Mahmou Shahin! 👋</h2>
+<h2> Hi, I'm Mohamed Wael ! 👋</h2>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -7,18 +7,15 @@
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
 <p
  
-👨‍🎓 I’m a graduate of Computer Science.
+👨‍🎓 I’m a Studying in Computer Science.
 
-🌱 I’m currently learning **Advanced Flutter & Design Patterns for improve my skills .**
+🌱 I’m currently learning **.Net & Design Patterns for improve my skills .**
 
 🤓 Always learning new things.
 
-💬 Ask me about Flutter, Dart, Firebase , and cleanarticture.
-🤓 im work freelance and i can do any mobile application do you need .
+💬 Ask me about Sql, C++, C# , and clean archticture.
 
-🤝 I’m looking to collaborate with other developers to build great stuff.
-
-📧 Feel free to reach me out mahmoudshahen658@gmail.com
+📧 Feel free to reach me out mw8969040@gmail.com
 
 📄 Documenting the entire journey.
 
@@ -75,13 +72,13 @@ const MahmoudShahin = {
 
 
 <p align="center">
-    <a href="https://github.com/MahmoudShahin/github-readme-streak-stats">
+    <a href="https://github.com/Mohamed Wael/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="a7medAlqal3awyi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=a7medAlqal3awyi&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
   
 </p>
 
-<a href="https://github.com/MahmoudShahin/github-readme-stats">
+<a href="https://github.com/Mohamed Wael/github-readme-stats">
     <img align="left"  alt="mahmoudshahin1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mahmoudshahin1&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/mahmoudshahin1/github-readme-stats">
     <img align="right" alt="mahmoudshahin1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudshahin1&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
