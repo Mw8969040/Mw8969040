@@ -27,12 +27,13 @@
 </div>
 
 ## 💻 Tech Stack & Tools:
-<div align="center">
-  <a href="#">
-     <img src="https://skillicons.dev/icons?i=cs,dotnet,asp,azure,blazor,mssql,postgres,git,github,vscode,postman&theme=dark" />
-  </a>
-</div>
-
+<div align="center"> <a href="#"> <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,sql,postgresql,azure,github,git,postman,vscode&theme=dark" /> </a> </div>
+🛠️ Skills:
+Programming Languages: C#, C++
+Concepts: OOP, Data Structures, Algorithms, Problem Solving, SOLID Principles
+Frameworks & Libraries: Windows Forms, ADO.NET, .NET
+Databases: SQL, T-SQL
+APIs & Tools: API Development, Postman, Git, Azure, Visual Studio Code
   
 ## 💌 Connect with me:
 <p align="center">
