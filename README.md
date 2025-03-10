@@ -34,6 +34,7 @@
 </div>
 </a>
 
+</a>
 🛠️ Skills:
 Programming Languages: C#, C++
 Concepts: OOP, Data Structures, Algorithms, Problem Solving, SOLID Principles
