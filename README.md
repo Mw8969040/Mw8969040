@@ -35,12 +35,13 @@
 </a>
 
 </a>
-🛠️ Skills:
-Programming Languages: C#, C++
-Concepts: OOP, Data Structures, Algorithms, Problem Solving, SOLID Principles
-Frameworks & Libraries: Windows Forms, ADO.NET, .NET
-Databases: SQL, T-SQL
-APIs & Tools: API Development, Postman, Git, Azure, Visual Studio Code
+🛠️ Skills:  
+Programming Languages: C#, C++  
+Concepts: OOP, Data Structures, Algorithms, Problem Solving, SOLID Principles  
+Frameworks & Libraries: Windows Forms, ADO.NET, .NET  
+Databases: SQL, T-SQL  
+APIs & Tools: API Development, Postman, Git, Azure, Visual Studio Code  
+
   
 ## 💌 Connect with me:
 <p align="center">
