@@ -29,9 +29,10 @@
 ## 💻 Tech Stack & Tools:
 <div align="center"> 
   <a href="#"> 
-    <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,sql,git,postman,vscode&theme=dark" /> 
+    <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,git,postman,vscode&theme=dark" /> 
   </a> 
 </div>
+</a>
 
 🛠️ Skills:
 Programming Languages: C#, C++
