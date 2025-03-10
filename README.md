@@ -32,15 +32,28 @@
     <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,git,postman,vscode&theme=dark" /> 
   </a> 
 </div>
-</a>
 
-</a>
-🛠️ Skills:  
-Programming Languages: C#, C++  
-Concepts: OOP, Data Structures, Algorithms, Problem Solving, SOLID Principles  
-Frameworks & Libraries: Windows Forms, ADO.NET, .NET  
-Databases: SQL, T-SQL  
-APIs & Tools: API Development, Postman, Git, Azure, Visual Studio Code  
+<h2>🛠️ Skills:</h2>
+
+<hr>
+
+<p><strong>Programming Languages:</strong> C#, C++</p>
+
+<hr>
+
+<p><strong>Concepts:</strong> OOP, Data Structures, Algorithms, Problem Solving, SOLID Principles</p>
+
+<hr>
+
+<p><strong>Frameworks & Libraries:</strong> Windows Forms, ADO.NET, .NET</p>
+
+<hr>
+
+<p><strong>Databases:</strong> SQL, T-SQL</p>
+
+<hr>
+
+<p><strong>APIs & Tools:</strong> API Development, Postman, Git, Azure, Visual Studio Code</p>
 
   
 ## 💌 Connect with me:
