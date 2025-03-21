@@ -1,74 +1,54 @@
-<h2 align="center">Hi, I'm Mohamed Wael! 👋</h2>
+<h1 align="center">Hi, I'm Mohamed Wael! 👋</h1>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;.NET+Developer;Always+Learning+New+Things&font=Fira+Code&center=true&width=500&height=50&color=2F81F7&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;.NET+Developer;Aspiring+Backend+Engineer;Always+Learning+New+Things&font=Fira+Code&center=true&width=600&height=50&color=2F81F7&vCenter=true&size=22">
   </a>
 </p>
 
 <img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Coding">
 
-👨‍🎓 I’m currently studying **Computer Science**.
+👨‍🎓 I’m currently a **Computer Science student**.  
+🚀 Passionate about **.NET development** and **backend engineering**.  
+🌱 Currently improving my skills in **ASP.NET Core, Clean Architecture, and Design Patterns**.  
+💡 Enthusiastic about solving problems, optimizing code, and building scalable applications.  
+💬 Ask me about **C#, .NET, SQL, Clean Architecture, and API Development**.  
+📧 Reach out to me at **mw8969040@gmail.com**.  
+📄 Documenting my entire journey as a developer.  
 
-🌱 I’m currently learning **.NET, Design Patterns, and Clean Architecture** to improve my skills.
+---
 
-🤓 Always learning new things and exploring new technologies.
-
-💬 Ask me about **SQL, C++, C#, and Clean Architecture**.
-
-📧 Feel free to reach out to me at **mw8969040@gmail.com**.
-
-📄 Documenting my entire journey as a developer.
-
-🫡 Deep Code Way.
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-
-## 💻 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools:
 
 <div align="center"> 
   <a href="#"> 
-    <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,git,postman,vscode,azure,sql&theme=dark" /> 
+    <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,git,js,css,html,postman,vscode,azure,sql&theme=dark" /> 
   </a> 
 </div>
 
-<h2>🛠️ Skills</h2>
+---
 
-<hr>
+## 🚀 Skills:
 
-<p><strong>Programming Languages:</strong> C#, C++</p>
+- **Programming Languages:** C#, C++, JavaScript  
+- **Concepts:** OOP, Data Structures, Algorithms, SOLID Principles, Clean Architecture  
+- **Frameworks & Libraries:** .NET Framework, .NET Core, ASP.NET MVC, Windows Forms, ADO.NET  
+- **Databases:** SQL Server, T-SQL  
+- **APIs & Tools:** RESTful APIs, Postman, Git, Azure, Visual Studio, VS Code  
+- **Soft Skills:** Problem-Solving, Teamwork, Time Management, Communication  
 
-<hr>
+---
 
-<p><strong>Concepts:</strong> OOP, Data Structures, Algorithms, Problem Solving, SOLID Principles</p>
-
-<hr>
-
-<p><strong>Frameworks & Libraries:</strong> Windows Forms, ADO.NET, .NET</p>
-
-<hr>
-
-<p><strong>Databases:</strong> SQL, T-SQL</p>
-
-<hr>
-
-<p><strong>APIs & Tools:</strong> API Development, Postman, Git, Azure, Visual Studio Code</p>
-
-<hr>
-
-<p><strong>Soft Skills:</strong> Teamwork, Communication, Problem Solving, Time Management</p>
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedWael&show_icons=true&theme=radical" alt="MohamedWael's GitHub Stats" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedWael&layout=compact&theme=radical" alt="Top Languages" width="45%">
 </div>
 
-## 💌 Connect with Me
+---
+
+## 📫 Connect with Me:
 
 <p align="center">
   <a href="mailto:mw8969040@gmail.com">
