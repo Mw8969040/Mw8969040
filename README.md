@@ -61,12 +61,6 @@
 
 <p><strong>Soft Skills:</strong> Teamwork, Communication, Problem Solving, Time Management</p>
 
-## 📊 Most Used Languages
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&langs_count=6&hide=html,css" alt="Top Languages" width="45%">
-</div>
-
 ## 💌 Connect with Me
 
 <p align="center">
