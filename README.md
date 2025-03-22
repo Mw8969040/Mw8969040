@@ -58,22 +58,22 @@
   
 ## 💌 Connect with me:
 <p align="center">
-    <a href="mailto:mw8969040@gmail.com" style="text-decoration: none; border: none;">
+    <a href="mailto:mw8969040@gmail.com" style="display: inline-block;">
         <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="50" height="50" />
     </a>
-    <a href="https://t.me/MohamedWaelAkl29" style="text-decoration: none; border: none;">
+    <a href="https://t.me/MohamedWaelAkl29" style="display: inline-block;">
         <img src="https://img.icons8.com/color/48/000000/telegram-app--v1.png" width="50" height="50" />
     </a>
-    <a href="https://www.linkedin.com/in/mohamed-wael-855340278" target="_blank" style="text-decoration: none; border: none;">
+    <a href="https://www.linkedin.com/in/mohamed-wael-855340278" target="_blank" style="display: inline-block;">
         <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="50" height="50" />
     </a>
-    <a href="https://www.facebook.com/mohamedwael.akil" target="_blank" style="text-decoration: none; border: none;">
+    <a href="https://www.facebook.com/mohamedwael.akil" target="_blank" style="display: inline-block;">
         <img src="https://img.icons8.com/fluency/48/000000/facebook.png" width="50" height="50" />
     </a>
-    <a href="https://wa.me/201029748721" target="_blank" style="text-decoration: none; border: none;">
+    <a href="https://wa.me/201029748721" target="_blank" style="display: inline-block;">
         <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="50" height="50" />
     </a>
-    <a href="https://discord.com/users/mohamedwael03717" target="_blank" style="text-decoration: none; border: none;">
+    <a href="https://discord.com/users/mohamedwael03717" target="_blank" style="display: inline-block;">
         <img src="https://img.icons8.com/doodle/48/fa314a/discord-logo.png" width="50" height="50" />
     </a>
 </p>
