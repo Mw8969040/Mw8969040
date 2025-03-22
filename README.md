@@ -31,7 +31,7 @@
 
 <div align="center"> 
   <a href="#"> 
-    <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,git,postman,vscode,azure,sql,html,css,js,ts&theme=dark" /> 
+    <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,git,postman,vscode,azure,html,css,js,ts&theme=dark" /> 
   </a> 
 </div>
 
