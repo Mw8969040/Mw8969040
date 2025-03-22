@@ -31,7 +31,7 @@
 
 <div align="center"> 
   <a href="#"> 
-    <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,git,postman,vscode,azure,sql&theme=dark" /> 
+    <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,git,postman,vscode,azure,sql,html,css,js&theme=dark" /> 
   </a> 
 </div>
 
@@ -39,19 +39,19 @@
 
 <hr>
 
-<p><strong>Programming Languages:</strong> C#, C++</p>
+<p><strong>Programming Languages:</strong> C#, C++, JavaScript</p>
 
 <hr>
 
-<p><strong>Concepts:</strong> OOP, Data Structures, Algorithms, Problem Solving, SOLID Principles</p>
+<p><strong>Web Development:</strong> HTML, CSS, JavaScript, ASP.NET Core, MVC</p>
 
 <hr>
 
-<p><strong>Frameworks & Libraries:</strong> Windows Forms, ADO.NET, .NET</p>
+<p><strong>Databases:</strong> SQL, T-SQL, Entity Framework, ADO.NET</p>
 
 <hr>
 
-<p><strong>Databases:</strong> SQL, T-SQL</p>
+<p><strong>Frameworks & Libraries:</strong> .NET, Windows Forms, Entity Framework</p>
 
 <hr>
 
@@ -92,5 +92,4 @@
 </p>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;I'm+a+Lifelong+Learner">
-</h3>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤
