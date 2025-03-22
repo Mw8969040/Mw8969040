@@ -31,7 +31,7 @@
 
 <div align="center"> 
   <a href="#"> 
-    <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,git,postman,vscode,azure,sql,html,css,js&theme=dark" /> 
+    <img src="https://skillicons.dev/icons?i=csharp,cpp,dotnet,git,postman,vscode,azure,sql,html,css,js,ts&theme=dark" /> 
   </a> 
 </div>
 
@@ -39,11 +39,11 @@
 
 <hr>
 
-<p><strong>Programming Languages:</strong> C#, C++, JavaScript</p>
+<p><strong>Programming Languages:</strong> C#, C++, JavaScript, TypeScript</p>
 
 <hr>
 
-<p><strong>Web Development:</strong> HTML, CSS, JavaScript, ASP.NET Core, MVC</p>
+<p><strong>Web Development:</strong> HTML, CSS, JavaScript, TypeScript, ASP.NET Core, MVC</p>
 
 <hr>
 
@@ -61,11 +61,10 @@
 
 <p><strong>Soft Skills:</strong> Teamwork, Communication, Problem Solving, Time Management</p>
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedWael&show_icons=true&theme=radical" alt="MohamedWael's GitHub Stats" width="45%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedWael&layout=compact&theme=radical" alt="Top Languages" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical&langs_count=6&hide=html,css" alt="Top Languages" width="45%">
 </div>
 
 ## 💌 Connect with Me
@@ -92,4 +91,5 @@
 </p>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;I'm+a+Lifelong+Learner">
+</h3>
