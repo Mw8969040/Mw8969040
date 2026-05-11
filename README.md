@@ -87,24 +87,9 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mw8969040&show_icons=true&theme=tokyonight&hide_border=true&v=1" 
-    width="45%" 
-  />
-  <img 
     src="https://streak-stats.demolab.com/?user=Mw8969040&theme=tokyonight&hide_border=true&v=1" 
     width="45%" 
   />
 </p>
 
-<br>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mw8969040&layout=compact&theme=tokyonight&hide_border=true&v=1" 
-    width="45%" 
-  />
-</p>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;Keep+Coding">
-</h3>
