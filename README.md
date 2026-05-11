@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedwaelakl&style=flat&color=2F81F7&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Mw8969040&style=flat&color=2F81F7&label=Profile+Views"/>
 </p>
 
 ---
@@ -87,11 +87,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=mohamedwaelakl&show_icons=true&theme=tokyonight&hide_border=true&v=1" 
+    src="https://github-readme-stats.vercel.app/api?username=Mw8969040&show_icons=true&theme=tokyonight&hide_border=true&v=1" 
     width="45%" 
   />
   <img 
-    src="https://streak-stats.demolab.com/?user=mohamedwaelakl&theme=tokyonight&hide_border=true&v=1" 
+    src="https://streak-stats.demolab.com/?user=Mw8969040&theme=tokyonight&hide_border=true&v=1" 
     width="45%" 
   />
 </p>
@@ -100,7 +100,7 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedwaelakl&layout=compact&theme=tokyonight&hide_border=true&v=1" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mw8969040&layout=compact&theme=tokyonight&hide_border=true&v=1" 
     width="45%" 
   />
 </p>
